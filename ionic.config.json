@@ -1,0 +1,7 @@
+{
+  "name": "NazNuts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
